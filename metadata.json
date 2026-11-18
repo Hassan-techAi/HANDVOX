@@ -1,0 +1,6 @@
+{
+  "name": "HANDVOX",
+  "description": "Every Gesture Deserves to Be Understood. Accessibility platform connecting Deaf, hard-of-hearing, and hearing individuals through sign language, speech, and text.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
