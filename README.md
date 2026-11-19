@@ -94,3 +94,6 @@ The project does not claim complete continuous sign-language translation or reli
 ## License
 
 No open-source license has been added yet. Unless a license is added, the default copyright rules apply; public visibility on GitHub does not automatically grant permission to reuse the code.
+
+
+ Open HANDVOX- official website(https://handvox-1032362114043.asia-south1.run.app)
